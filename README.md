@@ -353,8 +353,6 @@ MIT License - see LICENSE file for details
 ## 📞 Contact & Support
 
 - 📧 Email: [priyadharshinivenkatachelam@example.com]
-- 💬 Discussions: [GitHub Discussions]
-- 🐛 Issues: [Report Issues]
 
 ---
 
