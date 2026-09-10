@@ -352,8 +352,7 @@ MIT License - see LICENSE file for details
 
 ## 📞 Contact & Support
 
-- 📧 Email: [your-email@example.com]
-- 🐦 Twitter: [@yogi941]
+- 📧 Email: [priyadharshinivenkatachelam@example.com]
 - 💬 Discussions: [GitHub Discussions]
 - 🐛 Issues: [Report Issues]
 
@@ -368,9 +367,7 @@ MIT License - see LICENSE file for details
 
 ---
 
-## 🎬 Live Demo
 
-[Add live demo link when deployed]
 
 ---
 
